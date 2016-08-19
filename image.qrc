@@ -1,1 +1,31 @@
-<RCC/>
+<RCC>
+    <qresource prefix="/">
+        <file>image/2.png</file>
+        <file>image/chuku.png</file>
+        <file>image/image.qrc</file>
+        <file>image/login.png</file>
+        <file>image/passwd.png</file>
+        <file>image/ooopic_1471499646.png</file>
+        <file>image/ooopic_1471499678.png</file>
+        <file>image/ooopic_1471499690.png</file>
+        <file>image/shebei1.png</file>
+        <file>image/ooopic_1471505631.png</file>
+        <file>image/ooopic_1471505639.png</file>
+        <file>image/ooopic_1471507316.png</file>
+        <file>image/ooopic_1471507334.png</file>
+        <file>image/ooopic_1471507366.png</file>
+        <file>image/ooopic_1471507371.png</file>
+        <file>image/ooopic_1471507435.png</file>
+        <file>image/ooopic_1471507445.png</file>
+        <file>image/exit.png</file>
+        <file>image/ooopic_1471507451.png</file>
+        <file>image/kufang.png</file>
+        <file>image/ooopic_1471507477.png</file>
+        <file>image/ooopic_1471507482.png</file>
+        <file>image/ooopic_1471507489.png</file>
+        <file>image/ooopic_1471507496.png</file>
+        <file>image/ooopic_1471507500.png</file>
+        <file>image/ruku.png</file>
+        <file>image/save.png</file>
+    </qresource>
+</RCC>

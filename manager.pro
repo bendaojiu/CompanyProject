@@ -5,6 +5,7 @@
 #-------------------------------------------------
 
 QT       += core gui
+QT += sql
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
@@ -13,6 +14,14 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        mainwindow.cpp
+        mainwindow.cpp \
+    mymysql.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  += mainwindow.h \
+    mymysql.h \
+    name.h
+
+DISTFILES +=
+
+RESOURCES += \
+    image.qrc
